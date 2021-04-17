@@ -1,7 +1,3 @@
-# Loft
-
-## Editing the file
-
 # Hello World!,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ladeinde Oluwafisayo
 
 <p align="center">
@@ -9,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/physayor?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/physayor_loft">
-    <img src="https://img.shields.io/twitter/follow/chryz_codez?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/physayor_loft?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
 
