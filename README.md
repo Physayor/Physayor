@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/physayor?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/physayor_loft">
-    <img src="https://img.shields.io/twitter/follow/physayor_loft?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/loft_physayor?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
 
